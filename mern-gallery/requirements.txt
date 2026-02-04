@@ -1,0 +1,2 @@
+npm install express mongoose dotenv cors cloudinary multer multer-storage-cloudinary jsonwebtoken bcryptjs
+npm install axios react-router-dom
